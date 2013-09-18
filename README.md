@@ -5,6 +5,6 @@ It also deletes the oldest files in the folder and subfolders if the disk is ful
 
 Usage:
 
-nice /usr/bin/python run.py /folder/ 10
+    nice /usr/bin/python run.py /folder/ 10
 
 Where 10 is the disk space (in GB) you want to have free. Warning: It will delete the oldest files if there is not enough space.
