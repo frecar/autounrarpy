@@ -1,7 +1,7 @@
 autounrarpy
 ===========
 Simple script to automatically unrar rar files in folder and subfolder.
-It also deletes the oldest files in the folder and subfolders if the disk is full.
+It also deletes the oldest files in the folder and subfolders if the disk is full. It uses text files as log.
 
 Usage:
 
