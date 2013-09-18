@@ -7,4 +7,4 @@ Usage:
 
 nice /usr/bin/python run.py /folder/ 10
 
-Where 10 is the disk space you want to have free
+Where 10 is the disk space (in GB) you want to have free. Warning: It will delete the oldest files if there is not enough space.
